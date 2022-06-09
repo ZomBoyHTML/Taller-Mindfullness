@@ -1,0 +1,14 @@
+.button {
+    float: right;
+    font-size: 15.5px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 4px 8px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+}
+
+.button:hover {
+    background-color: #64b1a080;
+    color: rgb(0, 0, 0);
+}
