@@ -40,7 +40,7 @@ ol {
 
 .menu li ul {
     display: none;
-    position: absolute;
+    position: fixed;
     top: 71px;
     right: 219px;
     min-width: 140px;
